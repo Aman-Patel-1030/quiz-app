@@ -4,7 +4,7 @@ A modern, interactive quiz application built with Next.js 15, TypeScript, and Ta
 
 ## 🌟 Live Demo
 
-[View Live Application](https://quiz-app-brl2.vercel.app/)
+👉   [View Live Application](https://quiz-app-brl2.vercel.app/)
 
 ## ✨ Features
 
